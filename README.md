@@ -1,6 +1,6 @@
 # junit-extensions
 
-Példa projekt a https://pbes.github.io/junit-extensions bejegyzés példáival
+Példa projekt a https://pbes.github.io/posts/junit-extensions/ bejegyzés példáival
 
 ## Előfeltételek
 * Java 17
@@ -10,4 +10,4 @@ Példa projekt a https://pbes.github.io/junit-extensions bejegyzés példáival
 
 ```bash
 mvn clean test
-```
+```                                                                                                                                                                             
